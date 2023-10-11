@@ -17,9 +17,7 @@ require (
 	github.com/stretchr/testify v1.4.0
 	github.com/valyala/fasthttp v1.14.0
 	github.com/wsxiaoys/terminal v0.0.0-20160513160801-0940f3fc43a0 // indirect
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
-	golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/h2non/gock.v1 v1.0.14
